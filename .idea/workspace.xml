@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="506ba9b9-ad01-4890-ba55-f9d47f344d05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HauntedMatrixElementSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AllLongestStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortedArrayToBST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LengthMrepeatedKtimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LengthMrepeatedKtimes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,14 @@
       <recent name="Leets" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HauntedMatrixElementSum">
+  <component name="RunManager" selected="Application.SortedArrayToBST">
+    <configuration name="AllLongestStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AllLongestStrings" />
+      <module name="Leets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HauntedMatrixElementSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HauntedMatrixElementSum" />
       <module name="Leets" />
@@ -52,15 +60,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IndexOfPivot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IndexOfPivot" />
+    <configuration name="LengthMrepeatedKtimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LengthMrepeatedKtimes" />
       <module name="Leets" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthMrepeatedKtimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LengthMrepeatedKtimes" />
+    <configuration name="SortedArrayToBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortedArrayToBST" />
       <module name="Leets" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,28 +88,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="userSuggestions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="userSuggestions" />
-      <module name="Leets" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.reverseInt" />
-      <item itemvalue="Application.IndexOfPivot" />
-      <item itemvalue="Application.userSuggestions" />
       <item itemvalue="Application.replaceQuestionMarkNoRepetitionChars" />
       <item itemvalue="Application.LengthMrepeatedKtimes" />
       <item itemvalue="Application.HauntedMatrixElementSum" />
+      <item itemvalue="Application.AllLongestStrings" />
+      <item itemvalue="Application.SortedArrayToBST" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortedArrayToBST" />
+        <item itemvalue="Application.AllLongestStrings" />
         <item itemvalue="Application.HauntedMatrixElementSum" />
         <item itemvalue="Application.LengthMrepeatedKtimes" />
         <item itemvalue="Application.replaceQuestionMarkNoRepetitionChars" />
-        <item itemvalue="Application.userSuggestions" />
-        <item itemvalue="Application.IndexOfPivot" />
       </list>
     </recent_temporary>
   </component>
@@ -138,12 +139,20 @@
       <option name="project" value="LOCAL" />
       <updated>1599900054033</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="codeSignal">
+      <created>1600070371826</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600070371826</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="12/09" />
-    <option name="LAST_COMMIT_MESSAGE" value="12/09" />
+    <MESSAGE value="codeSignal" />
+    <option name="LAST_COMMIT_MESSAGE" value="codeSignal" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598333806829">
@@ -154,6 +163,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="538" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1599801544824" />
+    <state x="439" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600226253845">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1600226253845" />
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599769031955">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -166,35 +179,35 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="503" y="300" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1599721279749" />
-    <state x="692" y="8" key="CommitChangelistDialog2" timestamp="1600070326625">
+    <state x="692" y="8" key="CommitChangelistDialog2" timestamp="1600070371377">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="415" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1599900053493" />
-    <state x="692" y="8" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1600070326625" />
+    <state x="692" y="8" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1600070371377" />
     <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1599797480330">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599797480330" />
-    <state width="2516" height="560" key="GridCell.Tab.0.bottom" timestamp="1600068810975">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1492" height="246" key="GridCell.Tab.0.bottom" timestamp="1600232255547">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="155" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599901068032" />
-    <state width="2516" height="560" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1600068810975" />
-    <state width="2516" height="560" key="GridCell.Tab.0.center" timestamp="1600068810975">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1492" height="246" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600232255547" />
+    <state width="2516" height="560" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1600075367271" />
+    <state width="1492" height="246" key="GridCell.Tab.0.center" timestamp="1600232255547">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="155" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599901068032" />
-    <state width="2516" height="560" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1600068810975" />
-    <state width="2516" height="560" key="GridCell.Tab.0.left" timestamp="1600068810975">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1492" height="246" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600232255547" />
+    <state width="2516" height="560" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1600075367271" />
+    <state width="1492" height="246" key="GridCell.Tab.0.left" timestamp="1600232255547">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="155" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599901068032" />
-    <state width="2516" height="560" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1600068810975" />
-    <state width="2516" height="560" key="GridCell.Tab.0.right" timestamp="1600068810975">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1492" height="246" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600232255547" />
+    <state width="2516" height="560" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1600075367271" />
+    <state width="1492" height="246" key="GridCell.Tab.0.right" timestamp="1600232255547">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="155" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599901068032" />
-    <state width="2516" height="560" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1600068810975" />
+    <state width="1492" height="246" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600232255547" />
+    <state width="2516" height="560" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1600075367271" />
     <state width="1492" height="261" key="GridCell.Tab.1.bottom" timestamp="1598954738600">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -216,10 +229,14 @@
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599800199897" />
     <state x="415" y="0" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1599950469144" />
-    <state x="775" y="401" key="com.intellij.ide.util.TipDialog" timestamp="1600063224983">
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1600070382326">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1599851453311" />
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1600070382326" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1600210966136">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1600210966136" />
     <state x="775" y="401" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1600063224983" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1599026388102">
       <screen x="0" y="0" width="1536" height="824" />

@@ -13,7 +13,7 @@ public class MaxProductSubArrayCurated {
             int k = i;
             while(k != arr.length - 1){
                 prod = prod * arr[k + 1];
-                if( maxProd < prod)
+                if( maxProd < prod )
                     maxProd = prod;
                 k++;
             }

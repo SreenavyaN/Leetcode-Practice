@@ -25,4 +25,5 @@ public class FirstAndLastCharsSame {
         System.out.println(temp);
         return temp;
     }
+
 }

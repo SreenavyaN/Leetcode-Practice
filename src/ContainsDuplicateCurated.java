@@ -8,23 +8,25 @@ public class ContainsDuplicateCurated {
 
     }
 
-    public static boolean containsDups(int[] arr) {
+    public static List<Integer> containsDups(int[] arr) {
+        List<Integer> dups = new ArrayList<>();
         for (int i = 0; i < arr.length; i++) {
             for (int j = i + 1; j < arr.length; j++){
                 if (arr[i] == arr[j])
-                    return true;
+                    dups.add(arr[i]);
             }
         }
-    return false;
+    return dups;
     }
-    public static boolean containDupsOpt(int[] arr){
+    public static List<Integer> containDupsOpt(int[] arr){
+        List<Integer> dups = new ArrayList<>();
         Map<Integer,Integer> buff = new HashMap<>();
         for(int i = 0 ; i < arr.length ; i++){
             if(buff.containsKey(arr[i]))
-                return true;
+                dups.add(arr[i]);
             else
                 buff.put(arr[i],i);
         }
-        return false;
+        return dups;
     }
 }

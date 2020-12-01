@@ -57,14 +57,10 @@ public class lowestCommonAncestorBT {
         if(root.left == null && root.right == null && root.val != x.val)
             return null;
         ListNode head = new ListNode(root.val);
-        //ListNode temp = head;
         System.out.println(head.val);
         if(x.val == root.val)
             return head;
-
-        //temp.next =
         head.next = findPath(root.left, x);
-       // System.out.println("temp value "+temp.val);
         if (head.next == null)
                 head.next = findPath(root.right, x);
         if(head.next == null)

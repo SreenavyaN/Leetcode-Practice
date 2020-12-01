@@ -32,7 +32,7 @@ public class equalTrees {
         System.out.println("Post");
         printPostorder(root);
         System.out.println( );
-        System.out.println(findHeight(root));
+        System.out.println("Height "+findHeight(root));
         System.out.println(checkBalanceBinaryTree(root));
 
     }

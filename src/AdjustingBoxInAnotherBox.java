@@ -5,8 +5,8 @@ public class AdjustingBoxInAnotherBox {
         int[] arr = {2, 3, 6, 7, 8, 9, 4, 2};
         int[] sortedArr = sort(arr);
         System.out.println(Arrays.toString(sortedArr));
-        //int minimumBoxes = adjust(sortedArr);
-        //System.out.println("Minimum number of boxes after adjusting a box in another that is twice the size of it is : " + minimumBoxes);
+        int minimumBoxes = adjust(sortedArr);
+        System.out.println("Minimum number of boxes after adjusting a box in another that is twice the size of it is : " + minimumBoxes);
     }
 
     public static int adjust(int[] arr) {
